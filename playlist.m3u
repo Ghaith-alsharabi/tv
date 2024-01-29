@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:0 CUID="38" tvg-name="Saud Alshuraim Radio" group-title="إذاعة القرآن ",Saud Alshuraim Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/263
 #EXTINF:0 CUID="39" tvg-name="Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio" group-title="إذاعة القرآن ",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
@@ -109,7 +107,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:0 CUID="232" tvg-name="MBC ACTION" tvg-logo="https://i.ibb.co/c8Fs3M2/mbc-action.png" group-title="MBC ام بي سي ",MBC ACTION
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/397
 #EXTINF:0 CUID="227" tvg-name="MBC MAX" tvg-logo="https://i.ibb.co/Lrq7tLn/mbc-max.png" group-title="General",MBC MAX
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/392
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5216.ts
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="General",MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="General",MBC Drama KSA (1080p)
@@ -127,6 +125,8 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="General",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
+#EXTINF:-1,MBC Variety HD
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5541.ts
 
 
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="General",Rotana Cinema Egypt (1080p)
@@ -172,7 +172,8 @@ http://173.212.193.243:8080/mo3ad6501cL/mo3ad6501cL/1099
 
 #EXTINF:0 CUID="321" tvg-name="Syria Drama" group-title="Arabic VIP CH",Syria Drama
 http://173.212.193.243:8080/mo3ad6501cL/mo3ad6501cL/1112
-
+EXTINF:-1,Sham_TV
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5603.ts
 
 #EXTINF:0 CUID="322" tvg-name="Syria Education" group-title="Arabic VIP CH",Syria Education
 http://173.212.193.243:8080/mo3ad6501cL/mo3ad6501cL/1113
@@ -197,6 +198,12 @@ http://173.212.193.243:8080/mo3ad6501cL/mo3ad6501cL/1065
 http://173.212.193.243:8080/mo3ad6501cL/mo3ad6501cL/1066
 #EXTINF:-1,MTV 2
 http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/20489.ts
+#EXTINF:-1,MTV Lebanon HD
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5436.ts
+#EXTINF:-1,MTV_Lebanon_HD
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5596.ts
+#EXTINF:-1,MTV HD
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/4846.ts
 
 
 
@@ -244,8 +251,37 @@ http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5524.ts
 #EXTINF:-1,ART HEKAYAT 1
 http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5342.ts
 
+#EXTINF:-1,Nile Cinema
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5303.ts
+#EXTINF:-1,Nile Comedy
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5306.ts
+#EXTINF:-1,Nile Culture
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5307.ts
+#EXTINF:-1,Nile Drama
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5304.ts
+#EXTINF:-1,Nile Family
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5305.ts
+#EXTINF:-1,Nile Life
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5308.ts
+#EXTINF:-1,Nile News
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5309.ts
+#EXTINF:-1,Nile Sport
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5310.ts
+#EXTINF:-1,Nile TV
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5302.ts
+
+EXTINF:-1,Medi1.TV.HD
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5228.ts
+#EXTINF:-1,Mekameleen.TV
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5548.ts
+#EXTINF:-1,Melody_CINEMA
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5328.ts
 
 
+#EXTINF:-1,ZEE AFLAM
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5390.ts
+#EXTINF:-1,ZEE ALWAN
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/5389.ts
 
 #EXTINF:0 CUID="244" tvg-name="Shahid SciFi" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450264.png" group-title="SHAHID شاهد",Shahid SciFi
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/413
@@ -542,6 +578,8 @@ http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/4600.ts
 http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/4279.ts
 #EXTINF:0 CUID="215" tvg-name="ALMAJD KIDS" group-title="Arabic Channels قنوات عربية",ALMAJD KIDS
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/500
+#EXTINF:-1,Nickelodeon HD
+http://fast.bounceme.net:8080/live/SUJECyrrap/gVjddLTuPn/4843.ts
 
 
 
