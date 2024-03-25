@@ -19,13 +19,16 @@ http://ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD : asdf",Ahmed Amer Radio
 http://mo3ad.xyz/mo3adRR27c8/265
 
-#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD : ahjklsdf",Ahmed hjlkAmer Radio
-http://mo3ad.xyz/mo3adRR27c8/series/265
+#EXTINF:-1 tvg-id="sdfg.oi" tvg-logo="https://ittysgb.img567ur.com/5EnxdndrtyvkUa.png" group-title="ahjklsdf",Ahmed hjlkAmer Radio
+http://sdfg.oi/series/56755
 
 #EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD ; asdf",Ahmed Amer Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
 
 
-#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD", "asdf",Ahmed Amer Radio
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
+#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD asdf",Ahmed Amer Radio
+http://sdfg.oi/vod/56755
+
+#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD apopsdf",Ahmed Amer Radio
+http://sdfg.oi/56755
 
