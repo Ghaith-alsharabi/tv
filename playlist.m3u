@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Series;General",Syria Drama (360p) [Not 24/7]
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/263
+http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaasdDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkdfgU.png" group-title="General",Syriaasd Drama (360p) [Not 24/7]
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/263a
+http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaasdDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkdfgU.png" group-title="General",Syriaasd Drama (360p) [Not 24/7]
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/263a.m3u8
+http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaaDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="General",Syriaa Drama (360p) [Not 24/7]
 http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 #EXTINF:0 CUID="39" tvg-name="Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio" group-title="إذاعة القرآن ",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
