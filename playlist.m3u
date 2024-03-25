@@ -13,7 +13,7 @@ http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 
 
 
-#EXTINF:0 CUID="40" tvg-name="Ahmed Amer Radio" group-title="إذاعة القرآن ",Ahmed Amer Radio
+#EXTINF:0 CUID="40" tvg-name="Ahmed Amer Radio" group-title="VOD: asdf",Ahmed Amer Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
 #EXTINF:0 CUID="41" tvg-name="Idrees Abkr Radio" group-title="إذاعة القرآن ",Idrees Abkr Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/266
