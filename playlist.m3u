@@ -7,7 +7,7 @@ http://vod.ortas.sy:1935/oLive/dramaa05042022/uiy.m3u8
 http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.09
 #EXTINF:-1 tvg-id="SyriaaDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="General",Syriaa Drama (360p) [Not 24/7]
 http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="asdfasd.sk" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="سيبفاىقثفغ", asdfasd
+#EXTINF:0 tvg-id="asdfasd.sk" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="سيبفاىقثفغ", asdfasd
 http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 
 
