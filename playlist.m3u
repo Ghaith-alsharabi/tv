@@ -4,7 +4,7 @@ http://vod.ortas.sy/oLive/dramaa05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaasdDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkdfgU.png" group-title="General",Syriaasd Drama (360p) [Not 24/7]
 http://vod.ortas.sy:1935/oLive/dramaa05042022/uiy.m3u8
 #EXTINF:-1 tvg-id="SyriaasddDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkdfgU.png" group-title="General",Syriaasdd Drama (360p) [Not 24/7]
-http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.09
+http://vod.ortas.sy:1935/oLive/dramaa05042022/fgh
 #EXTINF:-1 tvg-id="SyriaaDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="General",Syriaa Drama (360p) [Not 24/7]
 http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 #EXTINF:0 tvg-id="asdfasd.sk" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="سيبفاىقثفغ", asdfasd
@@ -13,17 +13,17 @@ http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 
 
 
-#EXTINF:-1 CUID="40" tvg-id="mo3ad.xyz" group-title="VOD > asdf",Ahmed Amer Radio
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
+#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD > asdf",Ahmed Amer Radio
+http://vod.ortas.sy:1935/oLive/dramaa05042022/playlist.m3u8
 
-#EXTINF:-1 CUID="420" tvg-id="mo3ad.xyz" group-title="VOD : asdf",Ahmed Amer Radio
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
-
-
-#EXTINF:-1 CUID="430" tvg-id="mo3ad.xyz" group-title="VOD ; asdf",Ahmed Amer Radio
+#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD : asdf",Ahmed Amer Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
 
 
-#EXTINF:-1 CUID="440" tvg-id="mo3ad.xyz" group-title="VOD" "asdf",Ahmed Amer Radio
+#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD ; asdf",Ahmed Amer Radio
+http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
+
+
+#EXTINF:-1 tvg-id="mo3ad.xyz" tvg-logo="https://i.imgur.com/5EnxvkUa.png" group-title="VOD", "asdf",Ahmed Amer Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
 
