@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 CUID="38" tvg-name="Saud Alshuraim Radio" group-title="إذاعة القرآن ",Saud Alshuraim Radio
 http://mo3ad.xyz/mo3adRR27c8/vod/263
-#EXTINF:-1 CUID="39" tvg-name="Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio" group-title="إذاعة القرآن ",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
+#EXTINF:-1 CUID="39" tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="إذاعة القرآن ",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
 http://mo3ad.xyz/mo3adRR27c8/series/264
-#EXTINF:0 CUID="40" tvg-name="Ahmed Amer Radio" group-title="إذاعة القرآن ",Ahmed Amer Radio
+#EXTINF:0 CUID="40" tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="series إذاعة القرآن ",Ahmed Amer Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
-#EXTINF:0 CUID="41" tvg-name="Idrees Abkr Radio" group-title="إذاعة القرآن ",Idrees Abkr Radio
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/266
+#EXTINF:0 CUID="41" tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="series إذاعة القرآن ",Idrees Abkr Radio
+http://mo3ad.xyz/mo3adRR27c8/series/266
 #EXTINF:0 CUID="42" tvg-name="Aloyoon AlKoshi Rewayat Warsh An Nafi Radio" group-title="إذاعة القرآن ",Aloyoon AlKoshi Rewayat Warsh An Nafi Radio
 http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/267
 #EXTINF:0 CUID="43" tvg-name="Mohammed Siddiq AlMinshawi Radio" group-title="إذاعة القرآن ",Mohammed Siddiq AlMinshawi Radio
