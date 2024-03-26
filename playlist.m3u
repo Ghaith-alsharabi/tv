@@ -15,8 +15,9 @@ http://mo3ad.xyz/mo3adRR27c8/series/264
 #EXTINF:-1 tvg-id="MBpiC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="asd", asmzah Radio S03 E03
 http://mo3ad.xyz/mo3adRRhjh27c8/series/264
 
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="series إذاعة القرآن ",Ahmed Amer Radio
-http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="series إذاعةghkjالقرآن ",Ahmed Amer Radio
+series: http://mo3ad.xyz/mo3adRR27c8/mo3adRR27c8/265
+
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="series إذاعة القرآن ",Idrees Abkr Radio
 http://mo3ad.xyz/mo3adRR27c8/series/266
 #EXTINF:-1 tvg-name="Aloyoon AlKoshi Rewayat Warsh An Nafi Radio" group-title="إذاعة القرآن ",Aloyoon AlKoshi Rewayat Warsh An Nafi Radio
