@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 description="asdasdasd" duration="100" tvg-name="من وإلى مير(2021) (1080p)" tvg-logo="https://wecima.show/wp-content/uploads/2022/07/فيلم-من-وإلى-مير-368x520.jpg" group-title="أفلام عربي 2021",من وإلى مير(2021) (1080p)
+#EXTINF:-1 description="asdasdasd" length="100" date="2000" tvg-name="من وإلى مير(2021) (1080p)" tvg-logo="https://wecima.show/wp-content/uploads/2022/07/فيلم-من-وإلى-مير-368x520.jpg" group-title="أفلام عربي 2021",من وإلى مير(2021) (1080p)
 http://mo3ad.xyz/mo3adRR27c8/vod/263
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey S03 E03" tvg-logo="http://mu03.wanicelife.com:8880/images/6BfyMBHeXOfQ50BJA4VsVxRxw4S_small.jpg" group-title="English",Downton Abbey S03 E03
+#EXTINF:-1 description="asdasdasadd" duration=10 tvg-id="" tvg-name="Downton Abbey S03 E03" tvg-logo="http://mu03.wanicelife.com:8880/images/6BfyMBHeXOfQ50BJA4VsVxRxw4S_small.jpg" group-title="English",Downton Abbey S03 E03
 http://vo01.mohdtv.com:8880/series/voby4923/53835589/44886.mp4
 
 
-#EXTINF:-1 tvg-id="hgyuhg" tvg-name="Downtdfghjgon Abbey fgh S03 E03" tvg-logo="http://mu03.wanicelife.com:8880/images/6BfyMBHeXOfQ5asd0BJA4VsVxRxw4S_small.jpg" group-title="إذاعة القرآن ", fgh S03 E03
+#EXTINF:-1 description="asdasdasd" duration="100" tvg-id="hgyuhg" tvg-name="Downtdfghjgon Abbey fgh S03 E03" tvg-logo="http://mu03.wanicelife.com:8880/images/6BfyMBHeXOfQ5asd0BJA4VsVxRxw4S_small.jpg" group-title="إذاعة القرآن ", fgh S03 E03
 http://mo3ad.xyz/mo3adRRhjh27c8/series/264
 
 #EXTINF:-1 tvg-id="hgyuhg" tvg-name="Downtdfgon Abbey fgh S03 E04" tvg-logo="http://mu03.wanicelife.com:8880/images/6BfyMBHeXOfQ5asd0BJA4VsVxRxw4S_small.jpg" group-title="إذاعة القرآن ", fgh S03 E03
