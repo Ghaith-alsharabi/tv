@@ -1,9 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="What Lurks Beneath" group-title="Movies",What Lurks Beneath
-#KODIPROP:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
-#KODIPROP:http-referer=https://cdxaws.net/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.manifest_headers=Origin=https://cdxaws.net&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0&Referer=https://cdxaws.net/&Accept=*/*&Accept-Language=en-US,en;q=0.9
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://cdxaws.net&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0&Referer=https://cdxaws.net/&Accept=*/*&Accept-Language=en-US,en;q=0.9
-https://s1.cdxaws.net/hls2/03/00000/,1a7iel5w9l9h_n,1a7iel5w9l9h_o,.urlset/master.m3u8?t=2gck-VOe6mv_KYJE2_oeeLtcAUtRPWdE2OQmrAeM_o0&s=1761863553&e=359999999996400&v=3227935&i=0.3&sp=0
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=595625,RESOLUTION=1128x480,FRAME-RATE=60.000,CODECS="avc1.640020,mp4a.40.2",VIDEO-RANGE=SDR
+https://s1.cdxaws.net/hls2/03/00000/1a7iel5w9l9h_n/index-v1-a1.m3u8?t=oSfiwRnnlqQ8eperCEgqKdMEcDum_vAOLWp4EFeSHy0&s=1761866241&e=359999999996400&v=3227935&i=0.3&sp=0
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1040245,RESOLUTION=1280x544,FRAME-RATE=23.974,CODECS="avc1.64001f,mp4a.40.2",VIDEO-RANGE=SDR
+https://s1.cdxaws.net/hls2/03/00000/1a7iel5w9l9h_o/index-v1-a1.m3u8?t=oSfiwRnnlqQ8eperCEgqKdMEcDum_vAOLWp4EFeSHy0&s=1761866241&e=359999999996400&v=3227935&i=0.3&sp=0
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=44901,RESOLUTION=1128x480,CODECS="avc1.640020",URI="https://s1.cdxaws.net/hls2/03/00000/1a7iel5w9l9h_n/iframes-v1-a1.m3u8?t=oSfiwRnnlqQ8eperCEgqKdMEcDum_vAOLWp4EFeSHy0&s=1761866241&e=359999999996400&v=3227935&i=0.3&sp=0",VIDEO-RANGE=SDR
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=89026,RESOLUTION=1280x544,CODECS="avc1.64001f",URI="https://s1.cdxaws.net/hls2/03/00000/1a7iel5w9l9h_o/iframes-v1-a1.m3u8?t=oSfiwRnnlqQ8eperCEgqKdMEcDum_vAOLWp4EFeSHy0&s=1761866241&e=359999999996400&v=3227935&i=0.3&sp=0",VIDEO-RANGE=SDR
