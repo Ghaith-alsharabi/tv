@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Example Channel 1" tvg-logo="https://example.com/logo1.png" group-title="Sports",Example Channel 1
-http://your-server.com:8080/live/USERNAME/PASSWORD/1001.ts
+https://iptv.mg-studio.tech/hls/hls2/03/00000/
 
 #EXTINF:-1 tvg-id="channel2" tvg-name="Example News HD" tvg-logo="https://example.com/logo2.png" group-title="News",Example News HD
-http://your-server.com:8080/live/USERNAME/PASSWORD/1002.ts
+http://iptv.mg-studio.tech/hls/hls2/03/00000/
 
 #EXTINF:-1 tvg-id="channel3" tvg-name="Movie Channel" tvg-logo="https://example.com/logo3.png" group-title="Movies",Movie Channel
-https://iptv.mg-studio.tech/hls/hls2/03/00000/
+https://iptv.mg-studio.tech/hls/hls2/03/0/
