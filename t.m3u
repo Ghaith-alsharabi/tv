@@ -11,3 +11,7 @@ https://iptv.mg-studio.tech/hls/hls2/03/0/
 
 #EXTINF:-1 tvg-id="channel29" tvg-name="Example Newks HD" tvg-logo="https://example.com/logo2.png" group-title="News",Example Nekws HD
 https://iptv.mg-studio.tech/iptv/st/6
+
+
+#EXTINF:-1 tvg-id="channel26" tvg-name="Example Nenwks HD" tvg-logo="https://example.com/logo2.png" group-title="News",Example Nemkws HD
+http://iptv.mg-studio.tech/iptv/st/6
