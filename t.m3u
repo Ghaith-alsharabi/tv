@@ -20,6 +20,7 @@ https://iptv.mg-studio.tech/hls/hls2/02/00000/,qyj2a3grvvyx_n,qyj2a3grvvyx_o,.ur
 
 #EXTINF:-1 tvg-id="movie2" tvg-name="Movie Channel" tvg-logo="https://example.com/logo3.png" group-title="Movies",Movie Channel
 https://iptv.mg-studio.tech/hls/hls2/02/02906/h3gdxv4n068f_h/master.m3u8?t=eee9BS6hm5vyexjqOjFJ6bXE4Fd1IoNnf75F3h4oULQ&s=1766881431&e=28800&f=14534469&i=0.3&sp=0
+
 #EXTINF:-1 tvg-id="movie3" tvg-name="Movie Channel" tvg-logo="https://example.com/logo3.png" group-title="Movies",Movie234 Channel
 https://iptv.mg-studio.tech/hls/hls2/03/00000/,yf1vbc38gxkb_n,yf1vbc38gxkb_h,yf1vbc38gxkb_x,yf1vbc38gxkb_o,.urlset/master.m3u8?t=6R5e_9fXLfg6ou4QUMQhxv9kd4-ikL8NAImvyWd58Wk&s=1766718785&e=359999999996400&v=8303952&i=0.3&sp=0
 
