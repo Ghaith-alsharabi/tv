@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Example Channel 1" tvg-logo="https://example.com/logo1.png" group-title="Sports",Example Channel 1
-http://iptv.mg-studio.tech/hls/hls2/03/00000/,yf1vbc38gxkb_n,yf1vbc38gxkb_h,yf1vbc38gxkb_x,yf1vbc38gxkb_o,.urlset/master.m3u8?t=6R5e_9fXLfg6ou4QUMQhxv9kd4-ikL8NAImvyWd58Wk&s=1766718785&e=359999999996400&v=8303952&i=0.3&sp=0
-
+http://iptv.mg-studio.tech/hls/hls2/01/03089/zvb58llhciqw_o/master.m3u8?t=6_DylSLctTFcYHs_ql4j-GtE-31Ey1kF2-5cgYzRPUM&s=1770242480&e=28800&f=15449401&i=0.3&sp=0
 
 #EXTINF:-1 tvg-id="channel29" tvg-name="Example Newks HD" tvg-logo="https://example.com/logo2.png" group-title="News",Example Nekws HD
 https://iptv.mg-studio.tech/iptv/st/6
